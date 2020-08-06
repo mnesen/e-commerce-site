@@ -1,15 +1,5 @@
 [
   {
-    "email": "pogchamp@hotmail.com",
-    "password": "pogu",
-    "id": "b18c2c44"
-  },
-  {
-    "email": "test3@test.com",
-    "password": "password",
-    "id": "9da25078"
-  },
-  {
     "email": "testhash@test.com",
     "password": "886fbe7b07736e031b7993cb748cc82e6275e55d3e994a073d56fd7bb6c8bd007a7bf143a4db8e01f5efe97b1261243182b8b70773086926da4ca6810e440ae2.2b10bd755fe57e6b",
     "id": "df93fc1a"
