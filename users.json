@@ -1,0 +1,42 @@
+[
+  {
+    "email": "pogchamp@hotmail.com",
+    "password": "pogu",
+    "id": "b18c2c44"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "password",
+    "id": "9da25078"
+  },
+  {
+    "email": "testhash@test.com",
+    "password": "886fbe7b07736e031b7993cb748cc82e6275e55d3e994a073d56fd7bb6c8bd007a7bf143a4db8e01f5efe97b1261243182b8b70773086926da4ca6810e440ae2.2b10bd755fe57e6b",
+    "id": "df93fc1a"
+  },
+  {
+    "email": "test10@test.com",
+    "password": "df5a3ca7c4e5d26aa117ade920bc32851b573676f86680927a62fb073ef3bcda139ae6cbddf6fa6841fd08221fe5f4dc9006d041b2053bdbf06fe1408f2e050b.970300d8fbd3f32b",
+    "id": "1e0f9473"
+  },
+  {
+    "email": "@asddvadsvasd",
+    "password": "7195dec733a2697e1280108757a84ae32be5e5fe81835f4286b4bdebe568d823f765ec6d22c25e63b8959d6bbc90855c258d5bbc19c5fc3fe21964d04bf53b4e.dbde1bc4a573d084",
+    "id": "4c271f67"
+  },
+  {
+    "email": "test11@test.com",
+    "password": "f10af0b33ca4c1f2907eb5cae1f8582235f31aeb217ecd827fe7024e6f2f0a13dac4c78f168c30dbbac667ed2747a94da8f55c67a798da0e9291744b181be614.04fb9025837dad9b",
+    "id": "241bfc2d"
+  },
+  {
+    "email": "test12@test.com",
+    "password": "7df24c75a8ee029c6e193d05b8dab67773ca1d4e3f633f482a99eeada4f740cfc728c26ad2cd33981724a26623ef3eb80a193e410e0e4620d596bae3ed8e842b.4e2efc59f6ff1f46",
+    "id": "6c79e6f5"
+  },
+  {
+    "email": "test13@test.com",
+    "password": "d74841a2dbaa352057ba25a7fbb2f93d0b62027ba5d260a04cdf571b71695bfece24c7f4f92c018f5a6435430e17f1ad352193c2cd7aceafd5d8d13a4b94f9b0.5d5e81c46361824a",
+    "id": "8fb1211d"
+  }
+]
